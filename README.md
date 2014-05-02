@@ -10,7 +10,7 @@ This is the web app for the Spring 2014 ISU National Cyber Defense Competition. 
 ## Spoilers
 A non-exhaustive set of spoilers can be found in the  [NCDC 2014 Web Debrief.pdf](https://github.com/benjholla/NCDC2014/raw/master/NCDC%202014%20Web%20Debrief.pdf).
 
-Some additional spoilers were made public to both the Red and Blue teams simultaneously during the competition to present a incident-response opportunity.  The [Software Security Audit](https://github.com/benjholla/ISU_Spring_2014_NCDC_Anomalies/tree/master/Anomalies/Software%20Security%20Audit) anomaly and other competition anomalies can be found in another [repo](https://github.com/benjholla/ISU_Spring_2014_NCDC_Anomalies).
+Some additional spoilers were made public to both the Red and Blue teams simultaneously during the competition to present a incident-response opportunity.  The [Software Security Audit](https://github.com/benjholla/ISU_Spring_2014_NCDC_Anomalies/tree/master/Anomalies/Software%20Security%20Audit) anomaly and other competition anomalies can be found in the [ISU_Spring_2014_NCDC_Anomalies](https://github.com/benjholla/ISU_Spring_2014_NCDC_Anomalies) repository.
 
 ## Prereqs
 * Developed and tested on Ubuntu 12.04 LTS
